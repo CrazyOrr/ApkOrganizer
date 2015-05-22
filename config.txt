@@ -1,0 +1,3 @@
+# the configuration for ApkManagement
+android_project_path = E:\workspace\PlayMe
+destination_path = E:\文档\玩我\测试
