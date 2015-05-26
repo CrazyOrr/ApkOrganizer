@@ -1,4 +1,4 @@
 # The configuration for ApkOrganizer. 
 # The exported APKs should be placed under your `android_project_path`, after executing the script, the APKs and mapping.txt would be copied to a folder named in the format of datetime under `destination_path`.
 android_project_path = /media/lei/1C0C5D2B0C5D00E6/workspace/PlayMe
-destination_path = /home/lei/下载/temp
+destination_path = /home/lei/temp
